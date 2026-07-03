@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Tima.
-- 👀 I’m interested in Front-End developers lifes.
-- 🌱 I’m currently learning ReactJS, Redux, Typescript, and vanilla JS.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
